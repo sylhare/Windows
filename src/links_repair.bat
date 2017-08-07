@@ -1,8 +1,7 @@
-:: Restore broken shell folder
-:: Change the folder variable by "Links", "Favorites", "Downloads", etc ... to repair it
+@echo off 
 
 setlocal
-set folder="Links"
+set folder=Links
 
 echo Repairing %folder% folder
 
