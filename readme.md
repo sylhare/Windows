@@ -18,6 +18,24 @@ Inside your `autorun.int` :
 	[autorun]
 	open = application_to_start.bat
 ```
+
+## CMD 101
+
+For some of the necessary command:
+
+```dos
+F:				# Go to drive F:
+CD C:\folder			# Like linux to go inside C:\folder
+DIR				# list what's inside the directory
+REN *.xyz *.txt			# Rename file
+XCOPY *.txt C:\folder\  	# Copy file from a folder to another
+MOVE C:\folderA\* C:\folderB 	# Move content of folderA under folderB
+```
+
+A couple of trips:
+
+- In windows, paths are made using `\` back slash.
+- To get help on a command use `\?`.
 	
 ## Errors or problem encountered
 
