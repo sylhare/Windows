@@ -1,7 +1,7 @@
 Batch Script – Commands
 =======================
 
-Commands & Description
+Main 50 commands and description. Check out the original [source](https://www.tutorialspoint.com/batch_script/batch_script_commands.htm) for more info.
 
 1 [VER](/batch_script/batch_script_ver.htm) This batch command shows the version of MS-DOS you are using.
 
@@ -103,5 +103,3 @@ Commands & Description
 
 50 [SET](/batch_script/batch_script_set.htm) Displays the list of environment variables on the current system.
 
-
-> sources batsh script [tutorialpoints](https://www.tutorialspoint.com/batch_script/batch_script_commands.htm)
